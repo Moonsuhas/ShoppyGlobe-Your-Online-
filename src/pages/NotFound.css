@@ -11,7 +11,7 @@
 .notfound-container {
     text-align: center;
     padding: 3rem 1rem;
-    background: white;
+    background: rgb(252, 232, 232);
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     max-width: 500px;
@@ -69,11 +69,13 @@
     transform: scale(1.05);
 }
 
+
 /* Animations */
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(20px); }
     to { opacity: 1; transform: translateY(0); }
 }
+
 
 @keyframes bounce {
     from { transform: translateY(0); }

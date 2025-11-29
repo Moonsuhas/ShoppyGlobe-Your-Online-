@@ -92,6 +92,7 @@
     animation: fadeIn 1.2s ease-out;
 }
 
+
 /* Responsive */
 @media (max-width: 768px) {
     .hero-section {

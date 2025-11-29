@@ -1,7 +1,7 @@
 /* Cart Page Styles - Modern & Animated */
 .cart-page {
     min-height: calc(100vh - 80px);
-    background: linear-gradient(135deg, #74a3ea, #c3cfe2);
+    background: linear-gradient(135deg, #6f9ce1, #bfcadd);
     padding: 2rem 0;
     animation: fadeIn 1s ease-out;
 }
@@ -145,6 +145,7 @@
     background: linear-gradient(135deg, #5568d3, #6a3f8f);
     transform: scale(1.05);
 }
+
 
 /* Animations */
 @keyframes fadeIn {

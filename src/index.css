@@ -1,4 +1,4 @@
-/* Global Styles - ShoppyGlobe Modern Design */
+/* Global Styles - ShoppyGlobe Design */
 
 /* CSS Variables - Vibrant & Stylish */
 :root {
@@ -6,8 +6,8 @@
     --primary-dark: #d64161;
     --primary-light: #ff8f70;
     --accent-yellow: #ffde59;
-    --accent-green: #2ecc71;
-    --accent-red: #ff4757;
+    --accent-green: #32d777;
+    --accent-red: #e54653;
 
     --bg-gradient: linear-gradient(120deg, #f5f7fa, #c3cfe2);
     --white: #ffffff;

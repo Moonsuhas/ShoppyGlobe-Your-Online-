@@ -81,5 +81,4 @@ function Cart() {
     </main>
   );
 }
-
 export default Cart;
